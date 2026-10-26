@@ -1,0 +1,3 @@
+- insert:
+    - id: claude-usage
+      name: dsh-claude-usage
