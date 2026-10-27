@@ -1,6 +1,6 @@
 {
   "name": "dsh-claude-usage",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Remaining five-hour and weekly Claude usage for dsh-claude-provider.",
   "type": "module",
   "main": "lib/index.js",
